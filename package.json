@@ -1,0 +1,34 @@
+{
+  "name": "pixijs-render-manager",
+  "version": "1.0.0",
+  "description": "A render manager for pixijs",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Tomasz Dysinski",
+    "email": "oz@bunnybones.com",
+    "url": "https://github.com/bunnybones1"
+  },
+  "dependencies": {
+    "signals": "^1.0.0"
+  },
+  "devDependencies": {
+    "loadandrunscripts": "^1.0.0",
+    "pixijs-managed-view": "^1.0.0"
+  },
+  "scripts": {
+    "test": "beefy test.js --live --open"
+  },
+  "keywords": [
+    "pixijs",
+    "render"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunnybones1/pixijs-render-manager.git"
+  },
+  "homepage": "https://github.com/bunnybones1/pixijs-render-manager",
+  "bugs": {
+    "url": "https://github.com/bunnybones1/pixijs-render-manager/issues"
+  }
+}
